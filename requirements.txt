@@ -1,0 +1,13 @@
+flask
+transformers
+langchain
+langchain_google_genai
+huggingface_hub
+chromadb
+sentence-transformers
+pypdf
+gradio
+langchain_community
+faiss-cpu
+Flask-Session
+flashrank
